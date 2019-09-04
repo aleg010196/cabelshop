@@ -338,6 +338,7 @@ h1{
     padding-top: 10px;
     padding-bottom: 10px;
     text-decoration: none;
+    color: black;
 }
 
 .card__details:hover {
